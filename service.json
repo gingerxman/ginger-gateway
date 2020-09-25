@@ -1,0 +1,5 @@
+{
+	"name": "ginger-gateway",
+	"type": "golang-service",
+	"default_port": 3140
+}
